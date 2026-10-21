@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-196-sec-listener-add-a-replay-cache-to-webhook",
+    "fix/issue-226-fix-db-drop-the-vacuous-scale-check-on-fee-usdc",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-196-sec-listener-add-a-replay-cache-to-webhook": "main",
+    "fix/issue-226-fix-db-drop-the-vacuous-scale-check-on-fee-usdc": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-196-sec-listener-add-a-replay-cache-to-webhook",
+    "fix/issue-226-fix-db-drop-the-vacuous-scale-check-on-fee-usdc",
+    "origin"
+  ]
+}
